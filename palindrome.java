@@ -1,4 +1,4 @@
-public class PalindromeChecker {
+public class Palindrome{
     public static void main(String[] args) {
         System.out.print("Enter a string: ");
         String str = nextLine();
